@@ -1,7 +1,8 @@
 # 🏢 Social Club – Plataforma Integral para la Gestión de Clubes Sociales
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JuanJoseLobatonMateos/SocialClub/main/src/main/resources/images/logo.png" alt="Logo del Club Social" width="180" />
+  <img src="assets/logo.png" alt="Logo del Club Social" width="180" />
+
   <br><br>
   <em>Sistema completo de gestión para clubes sociales con aplicación de escritorio y app móvil integrada</em>
   <br><br>
