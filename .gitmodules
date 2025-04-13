@@ -1,0 +1,6 @@
+[submodule "SocialClub"]
+	path = SocialClub
+	url = https://github.com/JuanJoseLobatonMateos/SocialClub.git
+[submodule "SocialClub_app_proyecto"]
+	path = SocialClub_app_proyecto
+	url = https://github.com/JuanJoseLobatonMateos/SocialClub_app_proyecto.git
