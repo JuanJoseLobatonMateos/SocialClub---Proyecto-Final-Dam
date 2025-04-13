@@ -1,15 +1,7 @@
-Gracias, Juan José. Con toda la información del PDF, he preparado un `README.md` **realista, profesional y completo** para el repositorio principal de tu proyecto **Social Club**. Incluye descripción general, estructura, tecnologías exactas usadas, funcionalidades, instrucciones de instalación y ejecución, y enlaces a los subrepositorios.
-
----
-
-### ✅ Aquí tienes el README listo para copiar y pegar:
-
-```markdown
 # 🏢 Social Club – Plataforma Integral para la Gestión de Clubes Sociales
 
 <div align="center">
-  <img src="assets/logo.png" alt="Logo del Club Social" width="180" />
-
+  <img src="https://raw.githubusercontent.com/JuanJoseLobatonMateos/SocialClub/main/src/main/resources/images/logo.png" alt="Logo del Club Social" width="180" />
   <br><br>
   <em>Sistema completo de gestión para clubes sociales con aplicación de escritorio y app móvil integrada</em>
   <br><br>
@@ -102,6 +94,17 @@ git clone --recurse-submodules https://github.com/JuanJoseLobatonMateos/ClubSoci
 cd ClubSocial
 ```
 
+---
+
+## 📲 Instaladores y Accesos
+
+- 📦 Instalador escritorio (Windows):  
+  [🔗 Descargar desde Google Drive](https://drive.google.com/file/d/1O8eYR2HjK1HJ6BuutddeIuD2IJwepNFp/view?usp=drive_link)
+
+- 📱 App móvil (beta en Play Store):  
+  [🔗 https://play.google.com/store/apps/details?id=com.jlobatonm.socialclub](https://play.google.com/store/apps/details?id=com.jlobatonm.socialclub)
+
+---
 
 ## 📈 Pruebas
 
@@ -141,9 +144,3 @@ cd ClubSocial
 ## 📝 Licencia
 
 Este proyecto está bajo la **Licencia MIT**. Consulta los términos en el archivo `LICENSE` de cada subrepositorio.
-
-```
-
----
-
-¿Quieres que te genere este archivo en `.md` y te lo prepare para subirlo directamente al repositorio principal? También puedo ayudarte a crear un `GitHub Pages` si quieres mostrarlo como presentación visual.
