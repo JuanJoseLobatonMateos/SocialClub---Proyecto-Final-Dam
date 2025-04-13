@@ -80,6 +80,29 @@ El objetivo es digitalizar y centralizar toda la gestión del club: desde socios
 
 ---
 
+## 🗄️ Base de Datos
+
+La base de datos **MySQL** se encuentra estructurada y optimizada para una gestión completa del club. Incluye relaciones entre socios, empleados, reservas, eventos y control de accesos.
+
+- 💾 Script disponible: [`socialclub.sql`](./socialclub.sql)
+- 📦 Nombre de la base de datos: `socialclub`
+- 🔐 Soporta integridad referencial, claves foráneas y cascadas
+- 🎯 Compatibilidad: **MySQL 5.7+**
+- 🌍 Conectada a Google Cloud SQL para acceso remoto desde ambas apps
+
+Estructura principal:
+
+| Tabla           | Descripción                                     |
+|------------------|-------------------------------------------------|
+| `socio`          | Datos personales, huella, foto y credenciales  |
+| `reserva`        | Fecha, hora, instalación y socio               |
+| `empleado`       | Gestión de empleados y roles                   |
+| `rol`            | Administrador, empleado, socio, etc.           |
+| `evento`         | Actividades del club                           |
+| `instalacion`    | Pistas deportivas y salones disponibles        |
+
+---
+
 ## 📁 Estructura del Repositorio Principal
 
 ```
