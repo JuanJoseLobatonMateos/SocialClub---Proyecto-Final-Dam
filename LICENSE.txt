@@ -1,0 +1,35 @@
+COPYRIGHT (C) 2025 JUAN JOSÉ LOBATÓN MATEOS
+TODOS LOS DERECHOS RESERVADOS
+
+LICENCIA DE USO
+
+Este software ("Social Club") ha sido desarrollado como parte del proyecto final 
+del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma 
+(DAM).
+
+TÉRMINOS Y CONDICIONES:
+
+1. RESTRICCIONES DE USO: El uso de este software está estrictamente limitado a fines 
+   académicos y personales. Queda expresamente prohibido:
+   - El uso comercial
+   - La redistribución total o parcial
+   - La modificación sin autorización
+   - La ingeniería inversa
+   - La sublicencia a terceros
+
+2. PROHIBICIÓN DE DISTRIBUCIÓN: No se permite la reproducción, distribución, 
+   modificación ni publicación del contenido de este proyecto (incluyendo código 
+   fuente, documentación, imágenes u otros recursos) sin autorización previa y por 
+   escrito del autor.
+
+3. EXCLUSIÓN DE GARANTÍAS: Este software se proporciona "TAL CUAL", sin garantía 
+   de ningún tipo, ya sea expresa o implícita, incluyendo, pero no limitado a, 
+   las garantías implícitas de comerciabilidad y aptitud para un propósito particular.
+   El autor no será responsable por ningún daño directo, indirecto, incidental, 
+   especial o consecuente que surja del uso de este software.
+
+4. INTEGRIDAD: Esta licencia constituye el acuerdo completo entre el autor y el 
+   usuario con respecto al uso del software.
+
+Para solicitar permisos adicionales o realizar consultas, contactar al autor:
+jlobatonm@gmail.com
